@@ -1,0 +1,3 @@
+C:/Users/zarif/Downloads/Perang Lidi/build/CMakeFiles/physics_core.dir
+C:/Users/zarif/Downloads/Perang Lidi/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/zarif/Downloads/Perang Lidi/build/CMakeFiles/ZERO_CHECK.dir

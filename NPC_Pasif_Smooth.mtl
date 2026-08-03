@@ -1,0 +1,7 @@
+newmtl Hitam
+Kd 0.05 0.05 0.05
+Illum 2
+
+newmtl Putih
+Kd 0.95 0.95 0.95
+Illum 2
